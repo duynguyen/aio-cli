@@ -12,7 +12,7 @@
     "@adobe/aio-cli-plugin-console": "^2.0.3",
     "@adobe/aio-cli-plugin-jwt-auth": "^2.0.3",
     "@adobe/aio-cli-plugin-runtime": "^1.2.0",
-    "@adobe/aio-cli-plugin-app": "^0.3.0",
+    "@adobe/aio-cli-plugin-app": "^0.3.3",
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-autocomplete": "^0.1.2",
